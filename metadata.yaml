@@ -1,11 +1,16 @@
 _repo: Warren-Commission-14-of-26-Hearings-Vol-XIV-of-15_56190
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56190-h/images/cover.jpg
 creator:
   author:
     agent_name: Commission, Warren
     gutenberg_agent_id: '48712'
     url: http://www.gutenberg.org/2009/agents/48712
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56190#Warren-Commission-14-of-26-Hearings-Vol-XIV-of-15
 gutenberg_issued: '2017-12-17'
 gutenberg_type: Text
 identifiers:
